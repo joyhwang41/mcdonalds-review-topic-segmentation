@@ -1,0 +1,17 @@
+
+pandas
+numpy
+scikit-learn
+nltk
+gensim
+transformers
+torch
+vaderSentiment
+matplotlib
+openai
+scipy
+re
+datasets
+spacy
+wordcloud
+string
